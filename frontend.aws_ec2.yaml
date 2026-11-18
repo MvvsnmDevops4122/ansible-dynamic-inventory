@@ -13,3 +13,6 @@ hostnames:
 keyed_groups:
   - key: tags.Name
     separator: ''
+
+
+# ansible-inventory -i frontend.aws_ec2.yaml --graph
